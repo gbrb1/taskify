@@ -1,6 +1,5 @@
 # Taskify
 
-![Taskify](https://img.shields.io/badge/Taskify-blue?style=for-the-badge)
 
 Taskify é uma aplicação de gerenciamento de tarefas simples desenvolvida com React, Tailwind CSS e React Router. Ela permite adicionar, visualizar, editar e excluir tarefas, mantendo os dados salvos no localStorage do navegador.
 
@@ -24,7 +23,7 @@ Taskify é uma aplicação de gerenciamento de tarefas simples desenvolvida com 
 1. Clone o repositório:
 
    ```sh
-   git clone https://github.com/seu-usuario/taskify.git
+   git clone https://github.com/gbrb1/taskify.git
    ```
 
 2. Acesse a pasta do projeto:
@@ -86,5 +85,5 @@ Taskify/
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Gabriel Brum](https://github.com/gbrb1).
+Desenvolvido por [Gabriel Brum](https://github.com/gbrb1)
 
